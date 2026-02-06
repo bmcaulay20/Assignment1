@@ -68,4 +68,7 @@ screenshots of my code and output for fib.py.
 <img width="549" height="769" alt="Screenshot 2026-02-06 023548" src="https://github.com/user-attachments/assets/f8394187-c055-4984-8e29-47765593c4d0" />
 <img width="707" height="732" alt="Screenshot 2026-02-06 023603" src="https://github.com/user-attachments/assets/ccdb40ea-7538-4436-8e77-045d3e247e0f" />
 
+Below is my graph for the Fibonacci number calculation. The x-axis represents the n in the calculation, and the y-axis represents the time in seconds.
+
+<img width="1280" height="692" alt="Figureforfib" src="https://github.com/user-attachments/assets/3b78bb35-1f41-409e-a1f2-d596e705a4de" />
 
